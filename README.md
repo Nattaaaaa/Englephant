@@ -1,6 +1,6 @@
 # Englephant
 ## Description
-This is the application of our Graduation Project.
+This is the application of our Capstone Project.
 This project is an English vocabulary and pronunciation application.
 ## How to use
 ## Contact
